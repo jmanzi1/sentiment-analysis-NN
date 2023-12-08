@@ -1,0 +1,41 @@
+text,sentiment
+"I loved this movie! The acting was great and the story was engaging.",positive
+"I really disliked the latest update. It's buggy and removed features I relied on.",negative
+"Mediocre food and slow service made for a disappointing dining experience.",negative
+"The new user interface is slick and intuitive. Great job on the redesign!",positive
+"This vacuum cleaner doesn't seem to pick up dirt very well. Poor suction.",negative
+"The chicken burrito I ordered was bland and too small for the price.",negative 
+"I enjoy reading mystery novels to unwind so this new series from my favorite author is right up my alley!",positive
+"The directions provided were confusing so assembly took much longer than expected.",negative
+"The room was reasonably priced and the staff were welcoming at check-in.",positive
+"I waited over an hour for my food. The server was rude and inattentive.",negative
+"This book had an intriguing premise, but the characters lacked depth.",negative
+"I can't recommend this product. It failed to work properly right out of the box.",negative
+"This movie was creative and managed to keep me guessing. Thoroughly enjoyable!",positive
+"The room we booked was clean and modern. Beds were extremely comfortable.",positive
+"App constantly crashes. Also lacks key features offered by leading competitors.",negative
+"Cute outfit, but the material feels cheap. Not worth the high price tag.",negative
+"The new smartphone has excellent battery life and a camera that takes great photos.",positive
+"Customer service refused to refund my purchase or exchange the defective item.",negative
+"This dip tasted freshly made with quality ingredients. My new go-to appetizer!",positive 
+"Hotel was affordable and centrally located. Staff went the extra mile.",positive
+"Unpleasant bitter finish. I wouldn't buy this wine again even at a lower price point.",negative
+"This thriller had lots of plot twists that kept me turning pages to see what happened next!",positive
+"I shouldn't have to reboot my laptop this often. Very slow and frustrating.",negative 
+"The tutorial clearly explained each step. I learned the process quickly thanks to the great instructions.",positive
+"The software installation process was quick and smooth without any hiccups",positive
+"The park was well-maintained and clean, perfect for a family picnic",positive
+"Restaurant was cozy and peaceful with prompt service",positive
+"The payment gateway is user-friendly allowing easy processing of transactions",positive
+"I love that I can access my files from any device, great cloud storage option",positive
+"Fitness instructor provided excellent guidance keeping me motivated",positive
+"Room had a scenic view and comfortable mattress leading to good sleep",positive
+"Courteous customer care resolved my billing issue quickly”,positive
+“Package arrived a week late in damaged condition",negative
+"Difficult to navigate app with a poorly designed interface",negative
+"Flight was frequently delayed with no staff available for inquiries",negative
+"Hotel room lacked basic amenities like WiFi, towels, room service”,negative
+“Poor sound quality made it tough to hear lectures during the webinar",negative
+“Long queues and frequent card decline at checkout",negative
+“Food tasted stale and below expectations for price charged”,negative
+“Car had persistent rattling noise within first few months",negative
